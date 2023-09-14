@@ -7,7 +7,7 @@ public class TesteLivroDeNotas{
         var livroDeNotas = new LivroDeNotas(nomeDisciplina);
        // livroDeNotas.nomeDisciplina = nomeDisciplina;
         livroDeNotas.exibirMensagem();
-        System.out.println("A disciplina é "+ livroDeNotas.getNomeDisciplina());
+        System.out.println("A disciplina e "+ livroDeNotas.getNomeDisciplina());
         System.out.println("Ate logo");
         
     } 

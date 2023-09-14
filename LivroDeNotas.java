@@ -6,7 +6,7 @@ public class LivroDeNotas{
     public String getNomeDisciplina(){
         return nomeDisciplina;
     }
-    setter
+    //setter
     public void setNomeDisciplina(){
         this.nomeDisciplina= nomeDisciplina;
     }
